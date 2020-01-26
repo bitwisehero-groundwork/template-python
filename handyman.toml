@@ -1,2 +1,4 @@
 [python]
 description = "A basic Python web project."
+config_url = "https://raw.githubusercontent.com/bitwisehero-groundwork/template-python/master/handyman.toml"
+repo_url = "git@github.com:bitwisehero-groundwork/template-python.git"
